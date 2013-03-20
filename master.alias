@@ -1,0 +1,6 @@
+# source all dotfiles
+. ~/dotfiles/aliases/commands.alias
+. ~/dotfiles/git/commands.alias
+. ~/dotfiles/system/ps1.alias
+. ~/dotfiles/system/path.alias
+. ~/dotfiles/curl/resty
