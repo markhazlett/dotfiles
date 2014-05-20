@@ -16,3 +16,5 @@ alias cdpersonal='cd ~/Documents/code/personal/'
 alias cdwork='cd ~/Documents/code/work/'
 
 alias cls='clear && ls'
+
+alias pry='pry-remote'
