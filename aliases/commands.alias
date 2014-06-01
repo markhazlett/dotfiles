@@ -16,3 +16,5 @@ alias cdcode='cd ~/Documents/code/'
 alias cls='clear && ls'
 
 alias pry='pry-remote'
+
+alias openfinder='open -a finder .'
