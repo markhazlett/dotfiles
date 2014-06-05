@@ -18,3 +18,5 @@ alias cls='clear && ls'
 alias pry='pry-remote'
 
 alias openfinder='open -a finder .'
+
+alias ios='open /Applications/Xcode.app/Contents/Applications/iPhone\ Simulator.app'
